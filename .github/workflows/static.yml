@@ -105,18 +105,18 @@
             </ul>
         </nav>
     </header>
-    
+
     <section id="hero">
         <h1>Empowering Businesses to Support Caregivers</h1>
         <p>Reducing absenteeism, increasing productivity, and improving employee well-being.</p>
         <button onclick="showAlert()">Request a Demo</button>
     </section>
-    
+
     <section id="about">
         <h2>About Us</h2>
         <p>Care Solutions is a B2B wellness and care coordination service designed to integrate home health navigation, mental health support, and elder care coordination into Employee Assistance Programs (EAPs).</p>
     </section>
-    
+
     <section id="services">
         <h2>Our Services</h2>
         <ul>
@@ -126,7 +126,7 @@
             <li>📊 Technology-Driven Solutions</li>
         </ul>
     </section>
-    
+
     <section id="employers">
         <h2>For Employers</h2>
         <p>Why partner with Care Solutions?</p>
@@ -138,13 +138,13 @@
         </ul>
         <button onclick="showAlert()">Get a Free Business Assessment</button>
     </section>
-    
+
     <section id="employees">
         <h2>For Employees</h2>
         <p>Access personalized caregiving support through your EAP portal.</p>
         <button onclick="showAlert()">Access Your Portal</button>
     </section>
-    
+
     <section id="contact">
         <h2>Contact Us</h2>
         <form onsubmit="showAlert(); return false;">
@@ -157,7 +157,7 @@
             <button type="submit">Send Message</button>
         </form>
     </section>
-    
+
     <footer>
         <p>&copy; 2025 Care Solutions. All Rights Reserved.</p>
     </footer>
